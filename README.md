@@ -27,10 +27,10 @@ The timer will start automatically
 After time is over, you’ll see your WPM and accuracy
 
 🌐 Live Demo
-👉 [Click here to play](https://github.com/monkey-type-org/typing-test)
+👉 [\[Click here to play\]](https://monkey-type-org.github.io/typing-test/)
 
 📂 Repository
-👉 GitHub Repo
+👉 (https://github.com/monkey-type-org/typing-test)
 
 📖 Future Improvements
 
