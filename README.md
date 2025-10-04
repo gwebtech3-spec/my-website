@@ -26,7 +26,7 @@ After time is over, you’ll see your WPM and accuracy </br>
 👉 [Click here to play](https://monkey-type-org.github.io/typing-test/)
 
 📂 Repository </br>
-👉 [Click Git repo](https://monkey-type-org.github.io/typing-test/)
+👉 [Click Git repo](https://github.com/monkey-type-org/typing-test.git)
 
 
 📖 Future Improvements </br>
