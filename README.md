@@ -16,6 +16,9 @@ HTML5 </br>
 CSS3 </br>
 JavaScript (DOM Manipulation) </br>
 
+### 🖼️ Screenshot </br>
+![Typing Test Screenshot](static/images/typingtest.png)
+
 ### 🎮 How to Play </br>
 
 Type the words displayed on the screen </br>
@@ -23,10 +26,10 @@ The timer will start automatically </br>
 After time is over, you’ll see your WPM and accuracy </br>
 
 ### 🌐 Live Demo </br>
-👉 [Click here to play](https://monkey-type-org.github.io/typing-test/)
+👉 [Click here to play](https://monkey-type-org.github.io/monkeytype-test/)
 
 ### 📂 Repository </br>
-👉 [Click Git repo](https://github.com/monkey-type-org/typing-test.git)
+👉 [Click Git repo](https://github.com/monkey-type-org/monkeytype-test)
 
 
 ### 📖 Future Improvements </br>
