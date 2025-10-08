@@ -6956,8 +6956,8 @@ input[type="file"] > input[type="button"]::-moz-focus-inner {
     transition: all 0.3s ease; }
     .vertical-menu .navbar .container-fluid {
       padding-left: 0; }
-  .vertical-menu footer.footer {
-    margin-left: 250px; }
+  /* .vertical-menu footer.footer {
+    margin-left: 250px; } */
   .vertical-menu.sidebar-sm .navbar,
   .vertical-menu.sidebar-sm .main-panel .main-content {
     margin-left: 220px; }
